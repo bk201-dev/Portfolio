@@ -454,6 +454,7 @@ section{
     font-size: 16px;
 }
 
+
 @media (max-width: 1285px){
     #menu-icon{
         display: block;
@@ -601,7 +602,6 @@ section{
 }
 
 
-}
 
 .tech-stack{
     display: flex;
